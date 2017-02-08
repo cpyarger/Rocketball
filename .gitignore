@@ -48,3 +48,7 @@ Temporary Items
 *.log
 *.log
 Saved/Logs/RocketballRemake.log
+*.ini
+Saved/AutoScreenshot.png
+*.bin
+Saved/Autosaves/PackageRestoreData.json
